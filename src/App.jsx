@@ -1,15 +1,15 @@
-import React from 'react'
-import img1 from '../../HyggexAssingment/src/assets/Component 40.png'
-import img2 from '../../HyggexAssingment/src/assets/Group 1.png'
-import img3 from '../../HyggexAssingment/src/assets/Frame.png'
-import img4 from '../../HyggexAssingment/src/assets/1.png'
-import img5 from '../../HyggexAssingment/src/assets/Vector.png'
-import img6 from '../../HyggexAssingment/src/assets/few.png'
-import img7 from '../../HyggexAssingment/src/assets/xc.png'
-import img8 from '../../HyggexAssingment/src/assets/xvdc.png'
-import img9 from '../../HyggexAssingment/src/assets/df.png'
-import img10 from '../../HyggexAssingment/src/assets/sdv.png'
-import img11 from '../../HyggexAssingment/src/assets/Component 40.png'
+
+import img1 from '../src/assets/Component 40.png'
+import img2 from '../src/assets/Group 1.png'
+import img3 from '../src/assets/Frame.png'
+import img4 from '../src/assets/1.png'
+import img5 from '../src/assets/Vector.png'
+import img6 from '../src/assets/few.png'
+import img7 from '../src/assets/xc.png'
+import img8 from '../src/assets/xvdc.png'
+import img9 from '../src/assets/df.png'
+import img10 from '../src/assets/sdv.png'
+import img11 from '../src/assets/Component 40.png'
 import { GoHome } from "react-icons/go";
 import { IoIosArrowForward } from "react-icons/io";
 
